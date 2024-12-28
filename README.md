@@ -2,6 +2,7 @@
 
 
  Overview
+ 
 This project focuses on predicting box office revenue using data science and machine learning techniques. Implemented in Jupyter Notebook, the project leverages Python libraries for data analysis, visualization, and modeling to uncover insights and build predictive models for revenue estimation.
 
 Features
