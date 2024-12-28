@@ -47,10 +47,6 @@ The project employs the following models:
 - Decision Trees
 - XGBoost Regressor
 
-Future Improvements
-- Incorporate additional features such as genre, release date, and cast popularity.
-- Explore deep learning techniques for improved predictions.
-- Enhance visualizations with interactive tools like Plotly or Dash.
 
 
 
